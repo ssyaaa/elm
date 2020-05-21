@@ -33,23 +33,23 @@
     |--退出登录
   ### 动图展示
     |--登陆注册流程
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)   
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/1.gif)   
    
     |--首页界面
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)   
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/2.gif)   
    
     |--搜索功能
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)   
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/3.gif)   
    
     |--商店详情页
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/4.gif)
    
     |--下单流程
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/5.gif)
    
     |--订单页 删除订单
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/6.gif)
    
     |--我的页面功能展示
-   ![image](https://github.com/zhengwenming/WMPlayer/blob/master/WMPlayer/Resource/WMPlayer.gif)
+   ![image](https://github.com/ssyaaa/elm/blob/master/gif/7.gif)
     
