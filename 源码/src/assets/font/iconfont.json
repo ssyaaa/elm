@@ -1,0 +1,72 @@
+{
+  "id": "1681278",
+  "name": "1970/vue项目",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1119600",
+      "name": "swt-icon-订餐",
+      "font_class": "swticondingcan",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "3222832",
+      "name": "邀请有奖",
+      "font_class": "kefujingli-",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    },
+    {
+      "icon_id": "3858833",
+      "name": "钱包",
+      "font_class": "qianbao",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4294065",
+      "name": "卡",
+      "font_class": "qia",
+      "unicode": "e782",
+      "unicode_decimal": 59266
+    },
+    {
+      "icon_id": "4941944",
+      "name": "公益",
+      "font_class": "public-welfare",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "6850621",
+      "name": "合作",
+      "font_class": "hezuo",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "7378432",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8655875",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "10044386",
+      "name": "收藏",
+      "font_class": "xinbaniconshangchuan-",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
